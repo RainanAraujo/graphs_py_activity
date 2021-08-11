@@ -1,1 +1,3 @@
-# graphs_py_activity
+# Start
+to execute archive py, run:
+> python3 main.py
